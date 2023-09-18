@@ -4,7 +4,5 @@ author: "Jasmarkerizz (Jasmarkelina)"
 description: An optional mod for Tantria. Replaces some soundtracks. Music made by Jasmarkelina
 version: 1.0
 minGameVersion: 143.1
-hidden: false
-hideBrowser: false
 dependencies: []
 repo: Jasmarkerizz/Tantria-soundtrack
